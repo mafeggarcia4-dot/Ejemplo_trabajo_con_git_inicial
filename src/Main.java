@@ -1,5 +1,7 @@
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+
+        System.out.println("Menu");
+        System.out.println("Actualización de commit");
     }
 }
